@@ -47,7 +47,7 @@ Click the **Fork** button at the top of this page in Canvas.
 
 Choose to fork to your personal account if prompted. Once the forking process
 is complete, you should be looking at your personal copy of the assignment on
-GitHub.
+GitHub
 
 #### Step 3
 
